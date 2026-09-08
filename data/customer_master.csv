@@ -1,0 +1,11 @@
+customer_name,city,country,customer_type,sales_organization,postal_code
+ABC Distributors,Chicago,USA,Distributor,US01,60601
+Global Foods Inc,Dallas,USA,Distributor,US01,75201
+XYZ Retail,New York,USA,Retailer,US02,10001
+Fresh Foods LLC,Chicago,USA,Retailer,US01,60602
+Sunrise Wholesale,Los Angeles,USA,Wholesaler,US03,90001
+Metro Distribution Co,Houston,USA,Distributor,US01,77001
+United Grocery Group,Phoenix,USA,Retailer,US04,85001
+NorthStar Wholesale,Seattle,USA,Wholesaler,US05,98101
+Pacific Retail Partners,San Diego,USA,Retailer,US03,92101
+Midwest Food Services,Chicago,USA,Wholesaler,US01,60603

@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# Generated audit data
+data/review_decisions.csv
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
