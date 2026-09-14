@@ -276,7 +276,7 @@ Role-based access control
 Automated data quality scoring
 👤 Author
 
-Yaganti Mounika
+MounikaYaganti
 
 Enterprise Data Operations | SAP MDG | Master Data Management | Generative AI
 
@@ -292,9 +292,8 @@ Enterprise Data Operations | SAP MDG | Master Data Management | Generative AI
 In this section:
 
 ```markdown
-**Yaganti Mounika**
+**MounikaYaganti**
 
-Replace it with your actual name.
 
 Then press:
 
